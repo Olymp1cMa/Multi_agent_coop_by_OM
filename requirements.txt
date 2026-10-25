@@ -1,0 +1,4 @@
+openai-codex==0.163.0
+mcp==1.30.0
+reportlab==5.1.0
+pypdf==6.21.2
