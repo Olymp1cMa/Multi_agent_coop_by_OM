@@ -5,8 +5,8 @@ A simple terminal application for multi-agent collaboration.
 
 ## 功能 / Features
 
-- 智能体数量可输入任意正整数，无固定人数上限；共用一次选择的模型，各自拥有独立会话。  
-  Choose any positive agent count with no fixed application cap; agents share one model selection and keep separate conversations.
+- 智能体数量可输入任意正整数；共用一次选择的模型，各自拥有独立会话。  
+  Choose any positive agent count; agents share one model selection and keep separate conversations.
 - 自动由成员1分工，全员并行执行，最后统一审查汇总。  
   Agent 1 assigns roles and tasks, everyone works in parallel, and agent 1 reviews and summarizes.
 - 共享简短工作笔记，保存运行记录。  
